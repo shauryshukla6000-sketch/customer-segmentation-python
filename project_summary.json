@@ -1,0 +1,27 @@
+{
+  "source_rows": 2240,
+  "missing_income": 24,
+  "final_rows": 2213,
+  "clusters": 4,
+  "silhouette_scores": {
+    "2": 0.3221,
+    "3": 0.2779,
+    "4": 0.2891,
+    "5": 0.2268,
+    "6": 0.2263,
+    "7": 0.2174,
+    "8": 0.207
+  },
+  "segment_sizes": {
+    "0": 129,
+    "1": 1085,
+    "2": 429,
+    "3": 570
+  },
+  "segment_names": {
+    "0": "Premium High-Value",
+    "1": "Low-Engagement",
+    "2": "Established Value",
+    "3": "Digital-Engaged"
+  }
+}
